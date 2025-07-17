@@ -1,5 +1,10 @@
 ### Hi! I'm Guojun (bdm-k) 👋
 
+Here are the OSS projects I have contributed to:
+- [tier4/agnocast](https://github.com/tier4/agnocast) ([commits](https://github.com/tier4/agnocast/commits/main/?author=bdm-k))
+- [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) ([commits](https://github.com/artisticat1/obsidian-latex-suite/commits/main/?author=bdm-k))
+- [oazapfts/oazapfts](https://github.com/oazapfts/oazapfts) ([commits](https://github.com/oazapfts/oazapfts/commits/main/?author=bdm-k))
+
 <!--
 **bdm-k/bdm-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
